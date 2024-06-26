@@ -1,2 +1,12 @@
 # python environment
 /my_env
+
+# file
+note.ipynb
+
+# python dashboard
+python_dashboard\datamart
+python_dashboard\temp
+
+python_dashboard\.env.secret
+python_dashboard\.env.shared
