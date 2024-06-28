@@ -10,3 +10,5 @@ python_dashboard/temp
 
 python_dashboard/.env.secret
 python_dashboard/.env.shared
+
+python_dashboard/page/__pycache__
